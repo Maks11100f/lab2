@@ -1,4 +1,6 @@
-﻿#include "lab2.h"
+﻿//Compiler: MSVC
+
+#include "lab2.h"
 #include <iostream>
 #include <vector>
 #include <string>
